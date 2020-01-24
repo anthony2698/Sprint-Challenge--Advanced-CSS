@@ -49,7 +49,7 @@ My favorite concept is the nesting, and there are no concepts that give me troub
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
-## Project Set Up .
+## Project Set Up . 
 
 Follow these steps to set up your project:
 
